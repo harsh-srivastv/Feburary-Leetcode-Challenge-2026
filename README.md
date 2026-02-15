@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3379-transformed-array) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3714-longest-balanced-substring-ii) |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3713-longest-balanced-substring-i) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
