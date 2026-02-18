@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0693-binary-number-with-alternating-bits) |
 ## Backtracking
 |  |
 | ------- |
