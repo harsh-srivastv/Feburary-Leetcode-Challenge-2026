@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3379-transformed-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harsh-srivastv/Feburary-Leetcode-Challenge-2026/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
